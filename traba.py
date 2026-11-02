@@ -1,6 +1,7 @@
 import pygame, sys
 
-#Inicialización de Pygame
+#Inicialización de Pygame   
+# AAAAAAAAAAAAAAAAAAAAA
 pygame.init()
 
 # Obtener resolución de pantalla para pantalla completa nativa
